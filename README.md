@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub!
- I love :coffee:, :dancer:, and :pizza:.
+ I love :coffee:, :dancer:, and :pizz:.
